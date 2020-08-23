@@ -1,0 +1,7 @@
+Here are 2 steps to test a function:
+- Go to the folder that contain 2 files 'nearest' and 'test_nearest'
+- Open command line and run pytest
+
+Additional information
+- test_nearest.py: test_ need adding to prefix file's name.
+- In test_nearest, the function need test_ adding to prefix function's name.
